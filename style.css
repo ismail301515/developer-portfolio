@@ -235,3 +235,10 @@ line-height: 28px; /* 175% */
     text-decoration: none;
     margin-top: 40px;
 }
+/* footer style */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 230px;
+    margin-top: 100px;
+}
